@@ -1,3 +1,11 @@
+# velociraptor 1.1.1
+
+* Version bump to update the conda environment.
+
+# velociraptor 1.1.0
+
+* Bioconductor release
+
 # velociraptor 0.99.9
 
 * Converted various functions to S4 generics for easier use with `SingleCellExperiment` objects.
